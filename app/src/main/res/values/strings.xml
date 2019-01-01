@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Upload</string>
+    <string name="image_name">Nama gambar</string>
+    <string name="add_image">Tambah Gambar</string>
+    <string name="upload">Upload</string>
+    <string name="progress_message">Loading</string>
+    <string name="name">Nama</string>
+    <string name="alamat">Alamat Lengkap</string>
+    <string name="email">Email</string>
+    <string name="jenkel">Jenis Kelamin</string>
+</resources>
